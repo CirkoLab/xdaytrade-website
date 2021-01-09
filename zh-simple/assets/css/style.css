@@ -80,8 +80,8 @@
   --nav-item-color: #444;
   --nav-hover-color: #2c2e30;
   --nav-toggler-color: #7e8085;
-  --primary-color: #565656;
-  --primary-color-2: #7c4fe0;
+  --primary-color: #046cb4;
+  --primary-color-2: #45bbde;
   --secondary-color: #666;
   --secondary-color-2: #777;
   --social-color-1: #3b5999;
@@ -90,13 +90,13 @@
   --social-color-4: #00b489;
   --white-color: #ffffff;
   --primary-t-color: #222;
-  --primary-p-color: #565656;
+  --primary-p-color: #444;
   --primary-l-color: rgba(0, 0, 0, 0.12);
   --secondary-l-color: rgba(45, 49, 54, 0.09);
   --valid-color: #28a745;
   --invalid-color: #ffa200;
   --primary-bg-color: #f6f9fe;
-  --primary-bg-color-2: linear-gradient(-47deg, #8731E8 0%, #4528DC 100%);
+  --primary-bg-color-2: linear-gradient(-47deg, #45bbde 0%, #046cb4 100%);
   --primary-bg-color-3: #ffffff;
   --primary-bg-color-4: rgba(16, 16, 45, 1);
   --nav-bg-color: #d3d3d3;
