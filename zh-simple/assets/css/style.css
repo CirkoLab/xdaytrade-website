@@ -731,7 +731,7 @@ img {
 
 /*BACKGROUND IMAGES*/
 .welcome-area {
-  background: rgba(0, 0, 0, 0) url("../img/bg/welcome-bg.jpg") no-repeat scroll center center/cover;
+  background: rgba(0, 0, 0, 0) url("https://xdaytrade.oss-cn-shanghai.aliyuncs.com/img/bg/welcome-bg.jpg") no-repeat scroll center center/cover;
 }
 
 .homepage-3 .welcome-area {
