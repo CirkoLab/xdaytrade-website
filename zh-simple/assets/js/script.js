@@ -15,7 +15,7 @@ var handleFetchResult = function(result) {
   
   // Create a Checkout Session with the selected plan ID
   var createCheckoutSession = function(priceId) {
-    return fetch("http://localhost:4242/create-checkout-session", {
+    return fetch("http://www.xdaytrade.com/api/create-checkout-session", {
       method: "POST",
       headers: {
         "Content-Type": "application/json"
@@ -40,7 +40,7 @@ var handleFetchResult = function(result) {
   };
   
   /* Get your Stripe publishable key to initialize Stripe.js */
-  fetch("http://localhost:4242/setup")
+  fetch("http://www.xdaytrade.com/api/setup")
     .then(handleFetchResult)
     .then(function(json) {
       var publishableKey = json.publishableKey;
